@@ -12,6 +12,7 @@ This is a nice MVP, but it's nice to be able to call alfred with `org-capture` a
 I stole this from [this post](http://comments.gmane.org/gmane.emacs.orgmode/76348) and wrapped it up in github.
 
 Thanks to:
+
 1. Haider Rizvi
 1. Robert P. Goldman
 1. Alan Schmitt
